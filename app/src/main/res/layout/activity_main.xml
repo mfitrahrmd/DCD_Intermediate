@@ -19,8 +19,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <com.mfitrahrmd.my.SeatsView
+
+    <com.mfitrahrmd.my.TicketTextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="48dp"
+        android:paddingVertical="24dp"
+        android:gravity="center"
+        android:text="GoClub!" />
 
 </LinearLayout>
