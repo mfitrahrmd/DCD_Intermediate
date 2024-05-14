@@ -13,4 +13,9 @@
     <color name="blue_500">#1D70BE</color>
     <color name="blue_200">#519CE0</color>
     <color name="grey_200">#C5CAE9</color>
+    <color name="brown_right_hair">#A2693F</color>
+    <color name="brown_left_hair">#C4814D</color>
+    <color name="yellow_right_skin">#FCCD7A</color>
+    <color name="yellow_left_skin">#FEF89F</color>
+    <color name="red_ear">#F47F67</color>
 </resources>
